@@ -1,0 +1,54 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Anime Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Anime+Boy.png"
+    },
+    {
+      "id": "2",
+      "name": "Anime Girl",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Anime+Girl.png"
+    },
+    {
+      "id": "3",
+      "name": "Birds",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Birds.png"
+    },
+    {
+      "id": "4",
+      "name": "Black",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Black.png"
+    },
+    {
+      "id": "5",
+      "name": "Cat",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Cat.png"
+    },
+    {
+      "id": "6",
+      "name": "Couple",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Couple.png"
+    },
+    {
+      "id": "7",
+      "name": "Crown",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Crown.png"
+    },
+    {
+      "id": "8",
+      "name": "Cute",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Cute.png"
+    },
+    {
+      "id": "9",
+      "name": "Dog",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Dog.png"
+    },
+    {
+      "id": "10",
+      "name": "Dragons",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/categories/Dragons.png"
+    }
+  ]
+}
