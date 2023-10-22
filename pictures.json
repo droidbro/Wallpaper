@@ -1,0 +1,64 @@
+{
+  "pictures": [
+    {
+      "id": "1",
+      "category": "Anime_Girl",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Anime_Girl/d8481cd3fe8b80d25a2e543654bd470c.jpg"
+    },
+    {
+      "id": "2",
+      "category": "Anime_Girl",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Anime_Girl/dc16d8ffa590c31d244127ce1c05852b.jpg"
+    },
+    {
+      "id": "3",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Cute/6277143.jpg"
+    },
+    {
+      "id": "4",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Kawaii/cee2d73c541fd29c259c5cc0ad7ef2a5.jpg"
+    },
+    {
+      "id": "5",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Pink/57b214c4df66c067f080f5a01f158922.jpg"
+    },
+    {
+      "id": "6",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Red/44391f89d6aa5d09fe82baa19750b049.png"
+    },
+    {
+      "id": "7",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Crown/53fc008e2c1e62c748baa1fc35f8fd82.jpg"
+    },
+    {
+      "id": "8",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Lion/1090720.jpg"
+    },
+    {
+      "id": "9",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Unicorn/b3690fe3c57c12532916f76ea01f0ad6.jpg"
+    },
+    {
+      "id": "10",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Crown/42120c58df0aaf481f004beff654ef22.jpg"
+    },
+    {
+      "id": "11",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Couple/6f950125ff895d26b39b88ed5092f32e.jpg"
+    },
+    {
+      "id": "12",
+      "category": "Anime_Boy",
+      "url": "https://wallpaperkotlin.s3.eu-west-3.amazonaws.com/pictures/Pink/2fa310431c08f9550e831df2331b849b.jpg"
+    }
+  ]
+}
